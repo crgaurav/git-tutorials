@@ -1,0 +1,3 @@
+[submodule "loggger"]
+	path = loggger
+	url = git@github.com:Learning-ocean/loggger.git
