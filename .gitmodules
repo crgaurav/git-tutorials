@@ -4,3 +4,7 @@
 [submodule "hooks"]
 	path = hooks
 	url = git@github.com:Learning-ocean/git-hooks.git
+[submodule "test-git-hook"]
+	path = test-git-hook
+	url = git@github.com:Learning-ocean/test-git-hook.git
+	branch = submodule
